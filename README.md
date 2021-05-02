@@ -11,4 +11,4 @@ Um caminho alternativo fora da trilha comum, porém com base nas referências co
 
 # Glossário
 
-Para o [Glossário click aqui](./glossario.md).
+Para o [Glossário click aqui](./glossario).
