@@ -1,3 +1,5 @@
 theme: jekyll-theme-leap-day
 title: Aprenda FPGA
 description: Pequenas Anotações para Aprender FPGA
+show_downloads: false
+google_analytics: UA-39758644-1
