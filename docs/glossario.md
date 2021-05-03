@@ -3,7 +3,7 @@
 | Acron | Description                     | Doc and Page       | Obs |
 | ----- | ----- | ---- | ---- |
 | EEI  | Execution environment interface | RISC-V Espec - P21 | 1.2 RISC-V Software Execution Environments and Harts |
-| hart  | multiple RISC-V-compatible hardware threads | RISC-V Espec - P20 | 1.1 RISC-V Hardware Platform Terminology |
+| hart  | Multiplas threads de Hardware RISC-V-compatible, o termo foi cunhado Lithe (1) em contra partida ao termo Software Thread. | RISC-V Espec - P20 | 1.1 RISC-V Hardware Platform Terminology |
 | core  | an independent instruction fetch unit | RISC-V Espec - p20 |  1.1 RISC-V Hardware Platform Terminology |
 
 
@@ -46,3 +46,8 @@
 | EQ144 | ELQFP144 |
 | LQ176 | LQFP176 |
 | EQ176 | ELQFP176 |
+
+
+## Referências
+
+ 1.  Heidi Pan, Benjamin Hindman, and Krste Asanovi´c. Lithe: Enabling efficient composition of parallel libraries. In Proceedings of the 1st USENIX Workshop on Hot Topics in Parallelism (HotPar ’09), Berkeley, CA, March 2009.
