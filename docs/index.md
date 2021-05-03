@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Aprenda FPGA
 
 Algumas anotações para Brasileiros que querem aprender FPGA.
