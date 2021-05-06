@@ -1,15 +1,16 @@
 # Glossário
 
-| Acron | Description                     | Doc and Page       | Obs |
+| Abreviação/Acronimo| Descrição                     | Documento, Página, e Fontes       | Obs |
 | ----- | ----- | ---- | ---- |
+| FPGA  | Field Programmable Gate Array |||
+| ASIC  | Application Specific Integrated Circuit |||
 | EEI  | Execution environment interface | RISC-V Espec - P21 | 1.2 RISC-V Software Execution Environments and Harts |
-| hart  | Multiplas threads de Hardware RISC-V-compatible, o termo foi cunhado Lithe (1) em contra partida ao termo Software Thread. | RISC-V Espec - P20 | 1.1 RISC-V Hardware Platform Terminology |
+| hart  | Multiplas threads de Hardware RISC-V-compatible, o termo foi cunhado por Lithe (1) em contra partida ao termo Software Thread. | RISC-V Espec - P20 | 1.1 RISC-V Hardware Platform Terminology |
 | core  | an independent instruction fetch unit | RISC-V Espec - p20 |  1.1 RISC-V Hardware Platform Terminology |
 
 
 | Abbreviations and Terminology | Name |
 | ---- | ---- |
-| FPGA  | Field Programmable Gate Array |
 | FF | Flip-Flop |
 | CFU | Configurable Function Unit |
 | CLS | Configurable Logic Section |
