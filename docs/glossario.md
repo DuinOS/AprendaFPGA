@@ -2,11 +2,13 @@
 
 | Abreviação/Acronimo| Descrição                     | Contexto | Documento, Página, e Fontes       | Obs |
 | ----- | ----- | ---- | ---- | ---- |
+| ABI   | Application Binary Interface - Descreve a interface de baixo nível entre uma aplicação e o sistema operacional, entre a aplicação e suas bibliotecas ou entre componentes de uma aplicação. | Arquitetura de Computadores | [Wikipidia](https://pt.wikipedia.org/wiki/Interface_bin%C3%A1ria_de_aplica%C3%A7%C3%A3o) | |
 | ALU   | Arithmetic Logic Unit | Arquitetura de Computadores |||
 | ASIC  | Application Specific Integrated Circuit | RISC-V |||
 | BRAM  | Block RAM | FPGA |||
 | BSRAM | Block Static Random Access Memory | FPGA |||
-| core  | an independent instruction fetch unit | RISC-V |RISC-V Espec - p20 |  1.1 RISC-V Hardware Platform Terminology |
+| core  | Uma unidade independente com fech de instrução | RISC-V |RISC-V Espec - p20 |  1.1 RISC-V Hardware Platform Terminology |
+| EABI  | Embedded application Binary Interface | Arquitetura de Computadores ||||
 | EEI   | Execution environment interface | RISC-V |RISC-V Espec - P21 | 1.2 RISC-V Software Execution Environments and Harts |
 | FF    | Flip-Flop | FPGA |||
 | FPGA  | Field Programmable Gate Array | Engenharia Elétrica |||
