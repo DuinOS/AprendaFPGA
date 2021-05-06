@@ -1,17 +1,25 @@
 # Glossário
 
-| Abreviação/Acronimo| Descrição                     | Documento, Página, e Fontes       | Obs |
-| ----- | ----- | ---- | ---- |
-| FPGA  | Field Programmable Gate Array |||
-| ASIC  | Application Specific Integrated Circuit |||
-| EEI  | Execution environment interface | RISC-V Espec - P21 | 1.2 RISC-V Software Execution Environments and Harts |
-| hart  | Multiplas threads de Hardware RISC-V-compatible, o termo foi cunhado por Lithe (1) em contra partida ao termo Software Thread. | RISC-V Espec - P20 | 1.1 RISC-V Hardware Platform Terminology |
-| core  | an independent instruction fetch unit | RISC-V Espec - p20 |  1.1 RISC-V Hardware Platform Terminology |
-
+| Abreviação/Acronimo| Descrição                     | Contexto | Documento, Página, e Fontes       | Obs |
+| ----- | ----- | ---- | ---- | ---- |
+| ALU   | Arithmetic Logic Unit | Arquitetura de Computadores |||
+| ASIC  | Application Specific Integrated Circuit | RISC-V |||
+| BRAM  | Block RAM | FPGA |||
+| BSRAM | Block Static Random Access Memory | FPGA |||
+| core  | an independent instruction fetch unit | RISC-V |RISC-V Espec - p20 |  1.1 RISC-V Hardware Platform Terminology |
+| EEI   | Execution environment interface | RISC-V |RISC-V Espec - P21 | 1.2 RISC-V Software Execution Environments and Harts |
+| FF    | Flip-Flop | FPGA |||
+| FPGA  | Field Programmable Gate Array | Engenharia Elétrica |||
+| ISA   | Instruction Set Architecture | Arquitetura de Computadores |||
+| hart  | Multiplas threads de Hardware RISC-V-compatible, o termo foi cunhado por Lithe (1) em contra partida ao termo Software Thread. | RISC-V |RISC-V Espec - P20 | 1.1 RISC-V Hardware Platform Terminology |
+| LUT   | Look-up Tables | FPGA |||
+| RAM   | Random Access Memory | Arquitetura de Computadores |||
+| RISC  | Reduced Instruction Set Computer | Arquitetura de Computadores |||
+| RISC-V | ISA RISC na Versão 5 | RISC |||
+| SSRAM | Shadow Static Random Access Memory | FPGA |||
 
 | Abbreviations and Terminology | Name |
 | ---- | ---- |
-| FF | Flip-Flop |
 | CFU | Configurable Function Unit |
 | CLS | Configurable Logic Section |
 | CRU | Configurable Routing Unit |
@@ -21,10 +29,7 @@
 | LUT7 | 7-input Look-up Tables |
 | LUT8 | 8-input Look-up Tables |
 | REG | Register |
-| ALU | Arithmetic Logic Unit |
 | IOB | Input/Output Block |
-| SSRAM | Shadow Static Random Access Memory |
-| BSRAM | Block Static Random Access Memory |
 | SIP | System in Package |
 | SP | Single Port 16K BSRAM |
 | SDP | Semi Dual Port 16K BSRAM |
